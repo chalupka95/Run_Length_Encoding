@@ -20,3 +20,5 @@ starte das Programm.
 hier kannst du dir selbst bilder erstellen und dann komprimieren lassen sowie die komprimierten daten dekomprimieren.
 
 nach belieben kannst du deine kunstwerke speichern und laden oder dir die prozentuale verkleinerung berechnen.
+
+wenn du die liste der Letter erweiterst wird das startbild bunter.
